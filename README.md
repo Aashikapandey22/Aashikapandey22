@@ -1,3 +1,13 @@
-# Hi, I'm Aashika 👋
+<div align="center">
 
-Welcome to my GitHub!
+# 🌸 Hi, I'm Aashika Pandey
+
+### AI Builder • Python Developer • Tech Creator
+
+💜 Building AI projects  
+📚 Learning DSA  
+🎥 Sharing my coding journey
+
+---
+
+</div>
