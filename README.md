@@ -1,178 +1,157 @@
+<!-- ========================================================= -->
+<!--                  CUSTOM BANNER GOES HERE                  -->
+<!-- ========================================================= -->
+
 <div align="center">
 
-# ✿ AASHIKA PANDEY ✿
+<img src="assets/banner.png" width="100%">
 
-### CS Student • Builder • Tech Creator
+<br><br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=C8B6FF&center=true&vCenter=true&width=700&height=80&lines=%F0%9F%8C%B8+CS+student+building+cool+things;%F0%9F%92%9C+Documenting+my+coding+journey;%F0%9F%93%9A+Learning+DSA+one+problem+at+a+time;%F0%9F%92%BB+Turning+ideas+into+real+projects;%E2%9C%A8+One+commit+closer+to+my+dream)](https://git.io/typing-svg)
+*computer science student • building, learning & documenting the journey*
 
 <br>
 
-<a href="https://www.youtube.com/@Aashika_pandey">
-<img src="https://img.shields.io/badge/YouTube-FFB7D5?style=for-the-badge&logo=youtube&logoColor=white"/>
-</a>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3200&pause=1200&color=C8B6FF&center=true&vCenter=true&width=650&height=55&lines=building+things+i+wish+existed.;learning+dsa+one+problem+at+a+time.;documenting+college+%26+coding+life.;turning+ideas+into+real+projects.;one+commit+closer+to+my+dream.)](https://git.io/typing-svg)
 
-<a href="https://www.linkedin.com/in/aashika-pandey-90b909370/">
-<img src="https://img.shields.io/badge/LinkedIn-C8B6FF?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+<br>
 
-<a href="mailto:aashikapandey3366@gmail.com">
-<img src="https://img.shields.io/badge/Email-F8D7FF?style=for-the-badge&logo=gmail&logoColor=black"/>
-</a>
+<a href="https://www.youtube.com/@Aashika_pandey">youtube</a>
+&nbsp;&nbsp;·&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/aashika-pandey-90b909370/">linkedin</a>
+&nbsp;&nbsp;·&nbsp;&nbsp;
+<a href="https://www.instagram.com/aashika3366/">instagram</a>
+&nbsp;&nbsp;·&nbsp;&nbsp;
+<a href="https://leetcode.com/u/Aashikapandey/">leetcode</a>
+&nbsp;&nbsp;·&nbsp;&nbsp;
+<a href="mailto:aashikapandey3366@gmail.com">email</a>
 
 </div>
 
 ---
 
-## 🌸 About Me
+# about
 
-```yaml
-name: Aashika Pandey
+Hey, I'm Aashika.
 
-role: Computer Science Student
+I'm a Computer Science student who loves building projects, solving DSA problems, and documenting my journey through YouTube.
 
-location: India 🇮🇳
+I enjoy turning random ideas into software, learning by building, and sharing everything I discover along the way.
 
-currently:
-  - 📚 Learning Data Structures & Algorithms
-  - 💻 Building real-world projects
-  - 🎥 Creating tech content
-  - 🌱 Exploring AI & Software Development
+Most days you'll find me writing code, editing videos, planning my next project, or convincing myself that the bug definitely isn't missing a semicolon.
 
-fun_fact:
-  "I love turning random ideas into projects."
+---
+
+# currently
+
+```txt
+📚 learning
+Data Structures & Algorithms
+
+💻 building
+real-world projects
+
+🎥 creating
+coding & college vlogs
+
+🌱 exploring
+software development
+AI
+UI / UX
+
+🎯 goal
+build products that people genuinely enjoy using
 ```
 
 ---
 
-## 💻 Tech Stack
+# things i build with
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,cpp,js,html,css" />
-
-<br><br>
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
+<img src="https://skillicons.dev/icons?i=python,cpp,javascript,html,css,git,github,vscode,figma&perline=5"/>
 
 </p>
 
 ---
 
-## 🌷 Currently
+# featured projects
 
-```text
-📚 Solving DSA consistently
+### 💊 Medication Tracker
 
-💻 Building projects that solve real problems
-
-🎥 Growing my YouTube channel
-
-☕ Drinking unhealthy amounts of coffee
-
-🌸 Becoming 1% better every day
-```
+Helping people stay consistent with their medications through reminders and a simple interface.
 
 ---
 
-## ✨ Featured Projects
+### 📚 Book Recommendation System
 
-🌸 Medication Tracker
-
-> Smart medicine reminder built with Python.
-
-📚 Book Recommendation System
-
-> Personalized recommendations using Machine Learning.
-
-🤖 AI Chatbot
-
-> Conversational AI using modern APIs.
+Helping readers discover books they'll actually enjoy.
 
 ---
 
-## 📊 GitHub Stats
+### 🤖 AI Chat Assistant
+
+Experimenting with conversational AI and modern APIs.
+
+---
+
+# latest on youtube
+
+I like sharing the process instead of only the final result.
+
+You'll usually find videos about
+
+- coding
+- college life
+- project builds
+- productivity
+- learning in public
+
+🎥 **youtube**
+
+www.youtube.com/@Aashika_pandey
+
+---
+
+# github
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Aashikapandey22&show_icons=true&hide_border=true&theme=tokyonight"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aashikapandey22&layout=compact&hide_border=true&theme=tokyonight"/>
 
 </p>
 
 ---
 
-## 🔥 GitHub Streak
+# little things
 
-<p align="center">
+```txt
+currently reading
+→ Clean Code
 
-<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true"/>
+currently learning
+→ DSA
 
-</p>
+currently editing
+→ my next YouTube vlog
 
----
+coffee level
+→ █████████░
 
-## 📚 DSA Journey
-
-```text
-Arrays           ██████████
-
-Strings          ███████░░░
-
-Linked Lists     ███░░░░░░░
-
-Trees            ██░░░░░░░░
-
-Graphs           ░░░░░░░░░░
-
-Goal → Solve 300+ Problems 🌸
+mood
+→ building mode :)
 ```
-
----
-
-## 🎥 YouTube
-
-I love documenting my coding journey and sharing what I'm learning.
-
-💜 Python
-
-💜 DSA
-
-💜 Projects
-
-💜 College Life
-
-▶ https://www.youtube.com/@Aashika_pandey
-
----
-
-## ☁️ Currently.exe
-
-```bash
-user@aashika:~$ learning
-📚 DSA
-
-user@aashika:~$ building
-💻 Cool Projects
-
-user@aashika:~$ creating
-🎥 YouTube
-
-user@aashika:~$ dream
-✨ Software Engineer
-```
-
----
-
-## 💜 Quote
-
-> *"One commit closer to my dream."*
 
 ---
 
 <div align="center">
 
-Made with 💜 by Aashika
+*"building things today that my future self will thank me for."*
+
+<br>
+
+Thanks for stopping by ♡
 
 </div>
