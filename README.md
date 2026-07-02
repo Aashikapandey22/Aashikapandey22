@@ -1,13 +1,1 @@
-<div align="center">
-
-# 🌸 Hi, I'm Aashika Pandey
-
-### AI Builder • Python Developer • Tech Creator
-
-💜 Building AI projects  
-📚 Learning DSA  
-🎥 Sharing my coding journey
-
----
-
-</div>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=C8B6FF&center=true&vCenter=true&width=700&height=80&lines=%F0%9F%8C%B8+Building+AI-powered+solutions;%F0%9F%93%9A+Learning+DSA,+one+problem+at+a+time;%F0%9F%92%BB+Python+%E2%80%A2+JavaScript+%E2%80%A2+C%2B%2B;%F0%9F%8E%A5+Sharing+my+coding+journey;%E2%9C%A8+Always+curious.+Always+building.)](https://git.io/typing-svg)
