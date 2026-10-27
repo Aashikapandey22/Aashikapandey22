@@ -61,11 +61,6 @@ A digital identity management system built using core Data Structures.
 
 ---
 
-### 🧟 Zombie API Tracker
-Learning APIs and TypeScript by building practical tools.
-
----
-
 ### 🎯 Career Hub
 Helping students organize career resources and opportunities.
 
